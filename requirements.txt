@@ -1,0 +1,7 @@
+streamlit
+transformers
+keybert
+sentence-transformers
+scikit-learn
+PyMuPDF
+openpyxl
